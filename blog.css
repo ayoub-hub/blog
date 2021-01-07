@@ -1,0 +1,64 @@
+/*-------------------------------------------Page blog---------------------------------------------------*/
+#Blog{
+    background-image: url(img/bloo.jpg);
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+ }
+ .navbar{
+     background-color: aqua;
+ }
+ /*-------------------------About--------------------------------*/
+ #about h1 {
+     text-align: center;
+ }
+ #about p{
+     text-align: center;
+ }
+ /*--------------footer ---------------------*/
+ #footer{
+    background-color:black;
+    color: blue;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+/*-------------------------------------------------------page compte-------------------------------------------------*/
+/*--------------------inscri------------------------------*/
+#inscri h1{
+    text-align: center;
+}
+#inscri p{
+    text-align: center;
+    color: black;
+}
+/*-----------------login-----------------------------*/
+#login h1{
+    text-align: center;
+}
+#login p{
+    text-align: center;
+}
+#login form{
+    text-align: center;
+}
+/*----------------------------------------------------------page errors---------------------------------------------------------*/
+.error{
+    width: 92%;
+    margin: 0px auto;
+    padding: 10px;
+    border: 1px solid #a94442;
+    color: #a94442;
+    background: #f2defe;
+    border-radius: 5px;
+    text-align: left;
+}
+/*-----------------------------------------------Page article1-------------------------------------------*/
+#article1 h1{
+    text-align: center;
+}
+#cree article{
+ text-align: center;
+}
+
+
